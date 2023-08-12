@@ -1,0 +1,51 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 12 Aug 2023 15:22:37 at https://fitnesso.webflow.io/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://fitnesso.webflow.io/ -O1 "C:\My Web Sites\law" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:22:39	Error: 	"Bad Gateway" (502) after 2 retries at link https://fitnesso.webflow.io/robots.txt (from primary/primary)
+15:23:16	Warning: 	Retry after error 502 (Bad Gateway) at link https://fitnesso.webflow.io/checkout (from https://fitnesso.webflow.io/)
+15:23:17	Warning: 	Retry after error 502 (Bad Gateway) at link https://fitnesso.webflow.io/free-plans/back-day (from https://fitnesso.webflow.io/)
+15:23:17	Warning: 	Retry after error 502 (Bad Gateway) at link https://fitnesso.webflow.io/free-plans/the-ultimate-abs-tabata (from https://fitnesso.webflow.io/)
+15:23:22	Warning: 	Retry after error 502 (Bad Gateway) at link https://fitnesso.webflow.io/post/the-10-best-exercises-to-do-in-your-park (from https://fitnesso.webflow.io/)
+15:23:22	Warning: 	Retry after error 502 (Bad Gateway) at link https://fitnesso.webflow.io/post/healthy-breakfast-ideas (from https://fitnesso.webflow.io/)
+15:23:22	Warning: 	Retry after error 502 (Bad Gateway) at link https://fitnesso.webflow.io/post/my-life-changing-experience (from https://fitnesso.webflow.io/)
+15:23:24	Warning: 	Retry after error 502 (Bad Gateway) at link https://fitnesso.webflow.io/brand-guidelines/style-guide (from https://fitnesso.webflow.io/)
+15:23:24	Warning: 	Retry after error 502 (Bad Gateway) at link https://fitnesso.webflow.io/category/nutrition (from https://fitnesso.webflow.io/shop)
+15:23:24	Warning: 	Retry after error 502 (Bad Gateway) at link https://fitnesso.webflow.io/category/training (from https://fitnesso.webflow.io/shop)
+15:23:24	Warning: 	Retry after error 502 (Bad Gateway) at link https://fitnesso.webflow.io/checkout (from https://fitnesso.webflow.io/)
+15:23:24	Warning: 	Retry after error 502 (Bad Gateway) at link https://fitnesso.webflow.io/free-plans/back-day (from https://fitnesso.webflow.io/)
+15:23:24	Warning: 	Retry after error 502 (Bad Gateway) at link https://fitnesso.webflow.io/free-plans/the-ultimate-abs-tabata (from https://fitnesso.webflow.io/)
+15:23:25	Warning: 	Retry after error 502 (Bad Gateway) at link https://fitnesso.webflow.io/blog-categories/weight-loss (from https://fitnesso.webflow.io/blog)
+15:23:25	Warning: 	Retry after error 502 (Bad Gateway) at link https://fitnesso.webflow.io/blog-categories/training (from https://fitnesso.webflow.io/blog)
+15:23:25	Warning: 	Retry after error 502 (Bad Gateway) at link https://fitnesso.webflow.io/post/the-benefits-of-hiit-workouts (from https://fitnesso.webflow.io/blog)
+15:23:25	Warning: 	Retry after error 502 (Bad Gateway) at link https://fitnesso.webflow.io/post/can-you-have-a-good-workout-at-home (from https://fitnesso.webflow.io/blog)
+15:23:26	Warning: 	Retry after error 502 () at link https://fitnesso.webflow.io/post/the-10-best-exercises-to-do-in-your-park (from https://fitnesso.webflow.io/)
+15:23:26	Warning: 	Retry after error 502 (Bad Gateway) at link https://fitnesso.webflow.io/post/healthy-breakfast-ideas (from https://fitnesso.webflow.io/)
+15:23:26	Warning: 	Retry after error 502 (Bad Gateway) at link https://fitnesso.webflow.io/post/my-life-changing-experience (from https://fitnesso.webflow.io/)
+15:23:26	Warning: 	Retry after error 502 () at link https://fitnesso.webflow.io/brand-guidelines/style-guide (from https://fitnesso.webflow.io/)
+15:23:26	Warning: 	Retry after error 502 (Bad Gateway) at link https://fitnesso.webflow.io/category/nutrition (from https://fitnesso.webflow.io/shop)
+15:23:26	Warning: 	Retry after error 502 (Bad Gateway) at link https://fitnesso.webflow.io/category/training (from https://fitnesso.webflow.io/shop)
+15:23:27	Error: 	"Bad Gateway" (502) after 2 retries at link https://fitnesso.webflow.io/checkout (from https://fitnesso.webflow.io/)
+15:23:27	Error: 	"Bad Gateway" (502) after 2 retries at link https://fitnesso.webflow.io/free-plans/back-day (from https://fitnesso.webflow.io/)
+15:23:27	Error: 	"Bad Gateway" (502) after 2 retries at link https://fitnesso.webflow.io/free-plans/the-ultimate-abs-tabata (from https://fitnesso.webflow.io/)
+15:23:27	Warning: 	Retry after error 502 (Bad Gateway) at link https://fitnesso.webflow.io/blog-categories/weight-loss (from https://fitnesso.webflow.io/blog)
+15:23:27	Warning: 	Retry after error 502 (Bad Gateway) at link https://fitnesso.webflow.io/blog-categories/training (from https://fitnesso.webflow.io/blog)
+15:23:27	Warning: 	Retry after error 502 (Bad Gateway) at link https://fitnesso.webflow.io/post/the-benefits-of-hiit-workouts (from https://fitnesso.webflow.io/blog)
+15:23:27	Warning: 	Retry after error 502 (Bad Gateway) at link https://fitnesso.webflow.io/post/can-you-have-a-good-workout-at-home (from https://fitnesso.webflow.io/blog)
+15:23:28	Error: 	"" (502) after 2 retries at link https://fitnesso.webflow.io/post/the-10-best-exercises-to-do-in-your-park (from https://fitnesso.webflow.io/)
+15:23:28	Error: 	"Bad Gateway" (502) after 2 retries at link https://fitnesso.webflow.io/post/healthy-breakfast-ideas (from https://fitnesso.webflow.io/)
+15:23:28	Error: 	"Bad Gateway" (502) after 2 retries at link https://fitnesso.webflow.io/post/my-life-changing-experience (from https://fitnesso.webflow.io/)
+15:23:28	Error: 	"" (502) after 2 retries at link https://fitnesso.webflow.io/brand-guidelines/style-guide (from https://fitnesso.webflow.io/)
+15:23:28	Error: 	"Bad Gateway" (502) after 2 retries at link https://fitnesso.webflow.io/category/nutrition (from https://fitnesso.webflow.io/shop)
+15:23:28	Error: 	"Bad Gateway" (502) after 2 retries at link https://fitnesso.webflow.io/category/training (from https://fitnesso.webflow.io/shop)
+15:23:28	Error: 	"Bad Gateway" (502) after 2 retries at link https://fitnesso.webflow.io/blog-categories/weight-loss (from https://fitnesso.webflow.io/blog)
+15:23:28	Error: 	"Bad Gateway" (502) after 2 retries at link https://fitnesso.webflow.io/blog-categories/training (from https://fitnesso.webflow.io/blog)
+15:23:28	Error: 	"Bad Gateway" (502) after 2 retries at link https://fitnesso.webflow.io/post/the-benefits-of-hiit-workouts (from https://fitnesso.webflow.io/blog)
+15:23:28	Error: 	"Bad Gateway" (502) after 2 retries at link https://fitnesso.webflow.io/post/can-you-have-a-good-workout-at-home (from https://fitnesso.webflow.io/blog)
+
+HTTrack Website Copier/3.49-2 mirror complete in 51 seconds : 91 links scanned, 51 files written (19152785 bytes overall) [17748973 bytes received at 348019 bytes/sec], 1879592 bytes transferred using HTTP compression in 14 files, ratio 23%, 4.8 requests per connection
+(14 errors, 26 warnings, 0 messages)
